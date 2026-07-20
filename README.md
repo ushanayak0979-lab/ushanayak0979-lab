@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usha Nayak</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Building projects, one bug at a time 🐛</h3>
+<h3 align="center">Aspiring software Developer | Building projects, one bug at a time 🐛</h3>
 
 ---
 
