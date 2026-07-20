@@ -8,7 +8,7 @@
 - 🔭 I'm currently building **full-stack web applications** using the MERN stack
 - 🌱 I'm learning **Data Structures & Algorithms** and leveling up my problem-solving skills
 - 💡 I believe in learning by building real projects and debugging real errors
-- 📫 Reach me at: *add your email or LinkedIn here*
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/usha-n-63a3923a0) or usha.nayak0979@gmail.com
 
 ---
 
@@ -74,4 +74,15 @@ A full-stack event booking platform with authentication, role-based access contr
 
 ---
 
+### 🤝 Connect with Me
+
+[
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+
+](https://www.linkedin.com/in/usha-n-63a3923a0)
+
+---
+
 *"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie*
+
